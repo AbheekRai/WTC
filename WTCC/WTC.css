@@ -1,17 +1,9 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
 
-<style>
 
     
 @font-face{font-family:iconfont;src:url("/common/fonts/iconfont.woff2?v8") format("woff2"),url("/common/fonts/iconfont.woff?v8") format("woff"),
 url("/common/fonts/iconfont.ttf?v8") format("truetype"),url("/common/fonts/iconfont.svg?v8#iconfont") format("svg");font-weight:400;font-style:normal}
-</style>
-<style>
+
 
 .heading {
     font-family: Roboto;
@@ -61,15 +53,3 @@ box-sizing: border-box;
     cursor:pointer;
 }
 
-</style>
-    </head>
-    <body>
-<p class="top ">WTC</p>
-        <h1 class="heading" >World Time Convertor </h1>
-        
-        <h2 class="heading2">Time Zone Convertor - Time Difference Calculator</h2>
-<p class="content" >Provides time zone conversions taking into account Daylight Saving Time (DST), local time zone and accepts present, past, or future dates.</p>
-<input class="search-box" type="text" placeholder="Country/City Name">    
-<div class="pic"></div>
-</body>
-</html>
